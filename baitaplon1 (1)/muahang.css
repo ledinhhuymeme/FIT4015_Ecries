@@ -1,0 +1,10 @@
+.contact-banner {
+    background: url('https://source.unsplash.com/1600x600/?travel,contact') no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    color: rgb(234, 41, 20);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
